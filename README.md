@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <strong>A modern WordPress stack</strong>
+  <strong>A modern WordPress stack :)</strong>
 </p>
 
 <p align="center">
