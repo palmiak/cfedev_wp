@@ -2,5 +2,9 @@
 // that doesn't work with the default foreground color
 
 .has-primary-background-color {
-	color: pink;
+	color: var(--wp--preset--color--background);
+}
+
+body {
+	background-color: pink!important;
 }
