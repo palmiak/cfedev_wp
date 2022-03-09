@@ -1,0 +1,8 @@
+{
+    "require-dev": {
+        "pestphp/pest": "^1.21"
+    },
+    "scripts": {
+        "test": "./vendor/bin/pest"
+    }
+}
